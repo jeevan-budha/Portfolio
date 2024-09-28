@@ -41,6 +41,7 @@ window.onscroll=()=>{
     navbar.classList.remove('active');
 }
 
+
 // ScrollReveal({ reset: true });
 
 // ScrollReveal({
