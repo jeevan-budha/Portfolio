@@ -41,21 +41,21 @@ window.onscroll=()=>{
     navbar.classList.remove('active');
 }
 
-ScrollReveal({ reset: true });
+// ScrollReveal({ reset: true });
 
-ScrollReveal({
-    distance:'80px',
-    duration:2000,
-    delay:200,
-});
+// ScrollReveal({
+//     distance:'80px',
+//     duration:2000,
+//     delay:200,
+// });
 
-scrollReveal().reveal('.home-content, heading', {origin:'top'});
+// scrollReveal().reveal('.home-content, heading', {origin:'top'});
 
-scrollReveal().reveal('.home-img, .services-container .portfolio-box .contact form', {origin:'buttom'});
+// scrollReveal().reveal('.home-img, .services-container .portfolio-box .contact form', {origin:'buttom'});
 
-scrollReveal().reveal('.home-content h1, .about-img', {origin:'left'});
+// scrollReveal().reveal('.home-content h1, .about-img', {origin:'left'});
 
-scrollReveal().reveal('.home-content p, .about-content', {origin:'right'});
+// scrollReveal().reveal('.home-content p, .about-content', {origin:'right'});
 
 // ScrollReveal().reveal('.headline');
 // ScrollReveal().reveal('.tagline', { delay: 500 });
@@ -64,12 +64,12 @@ scrollReveal().reveal('.home-content p, .about-content', {origin:'right'});
 //typed js
 
 
-const typed=new Typed('.hi',{
-    strings:['Data Science','Data Analysis','Youruber'],
-    typspeed:70,
-    backspeed:70,
-    backDelay:1000,
-    loop:true,
+// const typed=new Typed('.hi',{
+//     strings:['Data Science','Data Analysis','Youruber'],
+//     typspeed:70,
+//     backspeed:70,
+//     backDelay:1000,
+//     loop:true,
 
-});
+// });
 
